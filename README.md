@@ -21,6 +21,12 @@ _For UNIX-like systems (Linux, BSDs and MacOS):_
 ```
 cd ~/.config/mc && curl -o mc.keymap https://raw.githubusercontent.com/carbon-starlight/mc-gui-keybindings/main/nautilus-vscode/mc.keymap
 ```
+_For Windows (using PowerShell):_
+
+```
+New-Item -ItemType Directory -Force -Path "$HOME\.config\mc"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/carbon-starlight/mc-gui-keybindings/main/nautilus-vscode/mc.keymap" -OutFile "$HOME\.config\mc\mc.keymap"
+```
 
 ## Copying
 
