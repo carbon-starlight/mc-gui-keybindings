@@ -20,4 +20,4 @@ Same license as in standard MC: GPLv3-or-later.
 
 ## Misc
 
-I also recommend the [Extend layer](https://dreymar.colemak.org/layers-extend.html) and some [symbol layer](https://colemakmods.github.io/ergonomic-mods/symbols.html) for the best typing experience.
+I also recommend using the [Extend layer](https://dreymar.colemak.org/layers-extend.html) and some [symbol layer](https://colemakmods.github.io/ergonomic-mods/symbols.html) for the best typing experience.
