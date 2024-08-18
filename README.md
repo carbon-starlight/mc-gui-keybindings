@@ -27,6 +27,7 @@ _For Windows (using PowerShell):_
 New-Item -ItemType Directory -Force -Path "$HOME\.config\mc"
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/carbon-starlight/mc-gui-keybindings/main/nautilus-vscode/mc.keymap" -OutFile "$HOME\.config\mc\mc.keymap"
 ```
+(doesn't fully work for some reason yet: appeared file is not being used) 
 
 ## Copying
 
