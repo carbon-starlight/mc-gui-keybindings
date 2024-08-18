@@ -14,9 +14,10 @@ Warning: only MCEdit keybindings are avalible yet. The project right now is bein
 
 Run the following command in your terminal:
 
-#### Shortcuts from Nautilus file manager and VSCode text editor:
+* **Shortcuts from Nautilus file manager and VSCode text editor:**
 
-**For UNIX-like systems (Linux, BSDs and MacOS):**
+_For UNIX-like systems (Linux, BSDs and MacOS):_
+
 ```
 cd ~/.config/mc && curl -o mc.keymap https://raw.githubusercontent.com/carbon-starlight/mc-gui-keybindings/main/nautilus-vscode/mc.keymap
 ```
